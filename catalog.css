@@ -16,7 +16,7 @@ body {
     width:100%;
     min-height: 100vh;
     padding: 5%;
-    background-image: url("jess-bailey-q10VITrVYUM-unsplash.jpg");
+    background-image: url("https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
     aspect-ratio: 2560/1440;
     background-repeat: no-repeat;
     background-position: center;
@@ -24,41 +24,6 @@ body {
     display:flex;
     align-items: center;
     justify-content: center;
-}
-.search-bar{
-    width: 100%;
-    max-width: 700px;
-    background: rgba(255, 255, 255, 0.2);
-    display:flex;
-    align-items: center;
-    border-radius: 60px;
-    padding: 10px 20px;
-    backdrop-filter: blur(4px) saturate(180%);
-
-}
-.search-bar input{
-    background: transparent;
-    flex: 1;
-    border: 0;
-    outline: none;
-    padding:24px 20px;
-    font-size:20px;
-    color: #cac7ff;
-}
-::placeholder{
-    color: #cac7ff;
-}
-.search-bar button img{
-    width: 25px;
-
-}
-.search-bar button{
-    border: 0;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    background: #58629b;
-    cursor: pointer;
 }
 header{
     background:#FFFFFF;
