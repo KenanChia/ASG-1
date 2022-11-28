@@ -71,6 +71,7 @@ img{
     background-image: url("https://preview.redd.it/ficdfpyctot81.jpg?width=960&crop=smart&auto=webp&s=c9e43f651933610864b111ae0ffa299f11297f80");
     aspect-ratio: 2560/1440;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     display:flex;

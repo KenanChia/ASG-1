@@ -10,7 +10,7 @@ body {
     
 }
 header{
-    background:#FFFFFF;
+    background:#ffffff;
 }
 
 header::after {
@@ -63,46 +63,4 @@ nav a::before {
 }
 nav a:hover::before{
     width:100%;
-}
-.wrapper{
-    min-height: 100vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75),url('https://media.istockphoto.com/id/1350723016/photo/defocused-golden-particles-glittery-against-dark-background-with-copy-space-christmas-overla.jpg?b=1&s=170667a&w=0&k=20&c=QtFiCE6MCfcLHWS15ADv3JfAsYRO3qBVhGjXQE5WAfE='));
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.testimonial{
-    padding:30px 100px
-}
-article h1{
-    font-size: 50px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-}
-article h1:after{
-    content: "";
-    height: 5px;
-    width: 225px;
-    background-color: #fff;
-    display: block;
-    margin: auto;
-}
-article img{
-    height: 200px;
-    width: 200px;
-    border: 2px solid #fff;
-    border-radius: 50%;
-    margin-top: 60px;
-}
-article h5{
-    text-transform: uppercase;
-    font-size: 28px;
-    margin-top: 30px;
-    letter-spacing: 1.5px;
-}
-article p{
-    font-size: 17px;
 }
