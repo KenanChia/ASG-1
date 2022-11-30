@@ -55,7 +55,7 @@ hr{
     width: 30px;
     margin: -19px auto 10px;
 }
-img{
+.sign-up-form img{
     width: 70px;
     margin-top: -50px;
 }
@@ -92,15 +92,15 @@ header::after {
     padding: 10px 0;
 
 }
-nav {
+.container nav {
     float:right;
 }
-nav ul {
+.container nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-nav li{
+.container nav li{
     display: inline-block;
     margin-left: 70px;
     padding-top: 23px;
@@ -108,16 +108,16 @@ nav li{
     position: relative;
 
 }
-nav a{
+.container nav a{
     color: #B49A9A;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 14px;
 }
-nav a:hover{
+.container nav a:hover{
 color: rgb(196, 90, 90);
 }
-nav a::before {
+.container nav a::before {
     content:'';
     display: block;
     height: 5px;
@@ -130,6 +130,6 @@ nav a::before {
 
     transition: all ease-in-out 200ms;
 }
-nav a:hover::before{
+.container nav a:hover::before{
     width:100%;
 }
