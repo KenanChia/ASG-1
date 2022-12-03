@@ -25,6 +25,19 @@ header::after {
     margin: 0 auto;
      
  }
+ .container2{
+    width:100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: url("https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .navbar{
     display:flex;
@@ -126,6 +139,9 @@ header::after {
     }
     .welcome{
         display: none;
+    }
+    .container2{
+        background-image: url("https://html.sammy-codes.com/images/background.jpg");
     }
 
 }
