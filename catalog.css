@@ -25,7 +25,19 @@ header::after {
     margin: 0 auto;
      
  }
-
+ .container2{
+    width:100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: url("https://i.pinimg.com/originals/f5/25/6f/f5256f22b9dea5d4eb80c41f91f87793.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 .navbar{
     display:flex;
     justify-content: space-between;
@@ -126,6 +138,9 @@ header::after {
     }
     .welcome{
         display: none;
+    }
+    .container2{
+        background-image: url("https://i.pinimg.com/originals/7f/f5/aa/7ff5aa2204c532c80dcc425080aeb1be.jpg");
     }
 
 }
