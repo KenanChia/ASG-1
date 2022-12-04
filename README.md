@@ -13,6 +13,13 @@ Logging in and Sign Up forms. By Logging in, you will be directed back to the Ho
 Im also going to create an "About Me" page which tells users more about the person who created the website and also the purpose of the website
 
 ### Products 
-I will add products to my online shop, mainly stationary and i will try to create a add to cart function but no payment methods.
+I will add products to my online shop, mainly stationary
 ## Extras
 I will add a drag out menu for mobile view and use flex box to tamper with the design when viewing from mobile view compafred to a desktop/laptop view.
+
+## Credit 
+I took my images from Unsplash and other websites searched from google.
+
+## Wish to have 
+I wish to have an add to cart function in my website but i cant figure out how to do it.
+I also wish to make my website search bar more accurate and useful as it currently can only go to catalog
